@@ -3,8 +3,10 @@
 
 <br>
 
+#### Project Detail
+
+S.No. | Project Name
 :--|:--|
-<b> S. No. | <b> Project Name
 <b> 1 |  <b>To create a simple html file to demonstrate the use of different tags.
 
 
