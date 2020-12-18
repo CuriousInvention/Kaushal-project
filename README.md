@@ -1,16 +1,17 @@
-#### Project Detail
-
-S.No. | Project Name
-:--|:--|
-<b> 1 |  <b>To create a simple html file to demonstrate the use of different tags.
-
-
-
+### Developer Detail
 <b>Name of Developer | <b> Kaushal Kishor
 :--|:--|
 <b> Institute | <b> IIMT College of Engineering
 <b> Email id|     <b> kaushalkk.iimt@gmail.com
 <b> Department | Information Technology
+  
+  
+
+### Project Detail
+
+S.No. | Project Name
+:--|:--|
+<b> 1 |  <b>To create a simple html file to demonstrate the use of different tags.
 
 
 #### Contributors
