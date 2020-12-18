@@ -1,8 +1,3 @@
-## Introduction (Round 0)
-
-
-<br>
-
 #### Project Detail
 
 S.No. | Project Name
@@ -10,14 +5,14 @@ S.No. | Project Name
 <b> 1 |  <b>To create a simple html file to demonstrate the use of different tags.
 
 
-
+<br>
 <b>Name of Developer | <b> Kaushal Kishor
 :--|:--|
 <b> Institute | <b> IIMT College of Engineering
 <b> Email id|     <b> kaushalkk.iimt@gmail.com
 <b> Department | Information Technology
 
-
+<br>
 #### Contributors
 
 SrNo | Name | Department| Institute | Email id
