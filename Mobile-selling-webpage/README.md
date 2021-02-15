@@ -1,4 +1,5 @@
-Hello Everyone
+## Discription
+  - This is simple webpage which show different features of Latest Mobile release
 
 ## Technology Used
   - HTMl
