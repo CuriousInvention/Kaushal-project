@@ -1,3 +1,3 @@
 Hello Everyone
 
-<img src="mobile-selling-webpage.gif" />
+<img src="img/gif/mobile-selling-webpage.gif" />
