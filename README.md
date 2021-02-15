@@ -11,7 +11,7 @@
 
 S.No. | Project Name
 :--|:--|
-<b> 1 |  <b>To create a simple html file to demonstrate the use of different tags.
+<b> 1 |  <b>To create a simple <b>Mobile selling Webpage</b> .
 
 
 #### Contributors
