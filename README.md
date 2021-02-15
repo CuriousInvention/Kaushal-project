@@ -9,9 +9,9 @@
 
 ### Project Detail
 
-S.No. | Project Name
-:--|:--|
-<b> 1 |  <b>To create a simple <b>Mobile selling Webpage</b> .
+S.No. | Project Name | Link
+:--|:--|:--
+<b> 1 |  <b>To create a simple <b>Mobile selling Webpage</b> | https://github.com/CuriousInvention/Kaushal-project/tree/main/Mobile-selling-webpage.
 
 
 #### Contributors
