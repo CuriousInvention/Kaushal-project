@@ -9,9 +9,10 @@
 
 ### Project Detail
 
-S.No. | Project Name | Link
-:--|:--|:--
-<b> 1 |  <b>To create a simple <b>Mobile selling Webpage</b> | https://github.com/CuriousInvention/Kaushal-project/tree/main/Mobile-selling-webpage.
+S.No. | Project Name | Link | Language 
+:--|:--|:-- |:-
+<b> 1 |  <b>To create a simple <b>Mobile selling Webpage</b> | https://github.com/CuriousInvention/Kaushal-project/tree/main/Mobile-selling-webpage. | HTML,CSS, JS
+  <b> 2 |  <b>To create simple height converter (feet to meter)</b> | | Python3, tkinter
 
 
 #### Contributors
