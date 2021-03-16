@@ -37,6 +37,23 @@ if __name__ == '__main__':
                 if((i+j+k)!=n):
                     lst.append([i,j,k])
                     
-    #Output
+    #Display 
     print(lst)
     
+    
+'''
+Compiler Message
+
+Success
+
+Input (stdin)
+
+    1
+    1
+    1
+    2
+
+Expected Output
+
+    [[0, 0, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0], [1, 1, 1]]
+'''
