@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Form -->
+        <form action="" name="form1" class="calculator">
+            <span class="text">Simple Calculator</span>
+            <input type="text" name="answer" id="display"><br>
+                <!-- Clear Button -->
+            <input type="button" class="btnDesign" value="C" onclick="form1.answer.value=''">
+                <!-- Backspace Button -->
+            <input type="button" class="btnDesign" value="<" onclick="form1.answer.value=form1.answer.value.substring(0,form1.answer.value.length*1-1)">
+                <!-- Double Zero -->
+            <input type="button" class="btnDesign" value="00" onclick="form1.answer.value+='00'">
+                <!-- Divide -->
+            <input type="button" class="operatorDesign" value="/" onclick="form1.answer.value+='/'"><br>
+                <!-- Seven -->
+            <input type="button" class="btnDesign" value="7" onclick="form1.answer.value+='7'">
+                <!-- Eight -->
+            <input type="button" class="btnDesign" value="8" onclick="form1.answer.value+='8'">
+                <!-- Nine -->
+            <input type="button" class="btnDesign" value="9" onclick="form1.answer.value+='9'">
+                <!-- Multiplication -->
+            <input type="button" class="operatorDesign" value="*" onclick="form1.answer.value+='*'"><br>
+                <!-- Four -->
+            <input type="button" class="btnDesign" value="6" onclick="form1.answer.value+='4'">
+                <!-- Five -->
+            <input type="button" class="btnDesign" value="5" onclick="form1.answer.value+='5'">
+                <!-- Six -->
+            <input type="button" class="btnDesign" value="4" onclick="form1.answer.value+='6'">
+                <!-- Subtraction -->
+            <input type="button" class="operatorDesign" value="-" onclick="form1.answer.value+='-'"><br>
+                <!-- One -->
+            <input type="button" class="btnDesign" value="1" onclick="form1.answer.value+='1'">
+                <!-- Two -->
+            <input type="button" class="btnDesign" value="2" onclick="form1.answer.value+='2'">
+                <!-- Three -->
+            <input type="button" class="btnDesign" value="3" onclick="form1.answer.value+='3'">
+                <!-- Addition -->
+            <input type="button" class="operatorDesign" value="+" onclick="form1.answer.value+='+'"><br>
+                <!-- Zero -->
+            <input type="button" class="btnDesign" value="0" id="zero" onclick="form1.answer.value+='0'">
+                <!-- Period -->
+            <input type="button" class="operatorDesign" value="." onclick="form1.answer.value+='.'">
+                <!-- Equal To -->
+            <input type="button" class="operatorDesign" value="=" onclick="form1.answer.value=eval(form1.answer.value)">
+            
+        </form>
+    </div>
+</body>
+</html>
