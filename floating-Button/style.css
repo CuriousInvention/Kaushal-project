@@ -1,4 +1,6 @@
-
+body{
+	border: 2px solid red;
+}
       .float{
         position:fixed;
         width: 60px;
